@@ -8,4 +8,8 @@ output: pdf_document
 3. glimpse the data
 
 Bee colonies
-1. Source = 
+Source = tidytuesday - US Department of Agriculture
+Honey Bee colony data was collected since 2015 through 2021. These colonies come from places that responded to the NASS with having honey bees on the Bee and Honey Inquiry. Data was collected 4 times a year. The observations include information, such as the year, the range of months that the observation relates to, the number of colonies total, max colonies, lost colonies, renovated colonies, and added colonies. 
+
+Covid
+1. Source:
