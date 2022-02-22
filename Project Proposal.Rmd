@@ -1,0 +1,11 @@
+---
+title: "Proposals"
+authors: "Lisa, Joshua, Carina, Haein"
+output: pdf_document
+---
+1. Write about the source of data, when and how it was collected, brief description of the observations
+2. 1-2 research questions
+3. glimpse the data
+
+Bee colonies
+1. Source = 
